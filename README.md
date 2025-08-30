@@ -1,0 +1,1 @@
+# 2.-ClauseWise-Legal-Document-Analyzer-Using-IBM-Watson-Granite
